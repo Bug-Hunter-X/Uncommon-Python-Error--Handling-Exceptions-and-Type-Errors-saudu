@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error involving exception handling and type errors. The `bug.py` file contains a function that attempts to handle `ZeroDivisionError` and `TypeError` exceptions. However, the handling of potential type errors could be improved. The `bugSolution.py` file provides a more robust solution.
